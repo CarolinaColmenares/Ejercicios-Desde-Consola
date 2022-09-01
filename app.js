@@ -24,6 +24,16 @@
 // (11) ['H', 'e', 'l', 'l', 'o', ' ', 'w', 'o', 'r', 'l', 'd']
 // myTextArrayChar.reverse()
 // (11) ['d', 'l', 'r', 'o', 'w', ' ', 'o', 'l', 'l', 'e', 'H']
+// myTextArrayChar.reverse().join("")
+// 'dlrow olleH'
+
+// function reverseDes(myText){
+//     return [...myText].reverse().join("");
+// }
+// undefined
+// reverseDes("Hola me llamo Carol")
+// 'loraC omall em aloH'
+
 
 
 
