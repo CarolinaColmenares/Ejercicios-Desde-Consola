@@ -35,6 +35,21 @@
 // 'loraC omall em aloH'
 
 
+//Ejercicio 3
+// Ejercicio que dado un string, 
+// invierta el orden de sus caracteres recursivamente 
+// En consola:
+// function reverse(text){
+//     if(text=== ""){
+//         return ""
+//     }
+//     let subText = text.substring(1)
+//     return reverse(subText) + text.charAt(0)
+// }
+// undefined
+// reverse("Hola Mundo")
+// 'odnuM aloH'
+
 
 
 
