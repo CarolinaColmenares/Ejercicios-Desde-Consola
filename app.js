@@ -113,3 +113,21 @@
 // (11) [1, 2, 3, 5, 7, 8, 8, 9, 10, 20, 21]
 
 
+//Ejercicio 6
+// Invertir las palabras de una frase,
+// pero cada frase debe mantenerse en su lugar 
+// En consola:
+// myText = "Yo dono rosas oro no doy"
+// 'Yo dono rosas oro no doy'
+// myText.split(" ")
+// (6) ['Yo', 'dono', 'rosas', 'oro', 'no', 'doy']
+// let myTextArr =myText.split(" ")
+// undefined
+// function reverse(myText){
+//     return [...myText].reverse().join("");
+// }
+// undefined
+// myTextArr.map(word => reverse(word))
+// (6) ['oY', 'onod', 'sasor', 'oro', 'on', 'yod']
+
+
