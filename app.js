@@ -8,7 +8,7 @@
 //     textReverse = letter + textReverse
 // }
 
- 
+
 //Ejercicio 2
 // Ejercicio que dado un string, cree una función que 
 // invierta el orden de los caracteres. 
@@ -84,5 +84,32 @@
 // myClearText === reverse(myClearText)
 // true
 
+
+
+//Ejercicio 5
+// Combinar 2 arrays ordenados, obteniendo un array ordenado 
+// En consola:
+// arr1= [1,2,8,10,21]
+// (5) [1, 2, 8, 10, 21]
+// arr2= [3,5,7,8,9,20]
+// (6) [3, 5, 7, 8, 9, 20]
+// function merge(arr1, arr2) {
+//     let combinedArray = [];
+//     while (arr1.length && arr2.length) {
+//         let firstElement
+//         if (arr1[0] < arr2[0]){
+//             firstElement = arr1.shift();
+//         } else{
+//            firstElement = arr2.shift();
+//         }
+//         combinedArray.push(firstElement)
+// }
+//     combinedArray= combinedArray.concat(arr1).concat(arr2);
+//     return combinedArray;
+// }
+
+// undefined
+// merge(arr1,arr2)
+// (11) [1, 2, 3, 5, 7, 8, 8, 9, 10, 20, 21]
 
 
