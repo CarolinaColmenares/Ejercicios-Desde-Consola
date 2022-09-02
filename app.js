@@ -51,6 +51,38 @@
 // 'odnuM aloH'
 
 
+//Ejercicio 4
+// Construya una función isPalindrome la cual nos indique
+// si es un palindrome o no
+// En consola:
+
+// text= "Yo dono rosas oro no doy"
+// 'Yo dono rosas oro no doy'
+
+// function reverse(text){
+//     return [...text].reverse().join("");
+// }
+// function obtainerReverse(text){ 
+//     return reverse(text).split(" ").join("")
+// }
+// undefined
+// obtainerReverse(text)
+// 'yodonorosasoronodoY'
+
+// Otra:
+
+// myText ="Yo dono rosas oro no doy"
+// 'Yo dono rosas oro no doy'
+// function clearMyText(myText){
+//     return myText.toLowerCase().split(" ").join("")
+// }
+// undefined
+// clearMyText(myText)
+// 'yodonorosasoronodoy'
+// myClearText = clearMyText(myText)
+// 'yodonorosasoronodoy'
+// myClearText === reverse(myClearText)
+// true
 
 
 
