@@ -131,7 +131,7 @@
 // (6) ['oY', 'onod', 'sasor', 'oro', 'on', 'yod']
 
 
-
+//Ejercicio 7
 // Otro Ejercicio de: Invertir las palabras de una frase,
 // pero cada frase debe mantenerse en su lugar 
 // En consola:
