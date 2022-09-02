@@ -131,3 +131,15 @@
 // (6) ['oY', 'onod', 'sasor', 'oro', 'on', 'yod']
 
 
+
+// Otro Ejercicio de: Invertir las palabras de una frase,
+// pero cada frase debe mantenerse en su lugar 
+// En consola:
+// function reverseTextLast(text){
+//     myTextArr = text.split(" ");
+//     return myTextArr.map(word => reverse (word))
+// }
+// undefined
+// reverseTextLast("Hola como estás yo bien")
+// (5) ['aloH', 'omoc', 'sátse', 'oy', 'neib']
+
