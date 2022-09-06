@@ -143,3 +143,17 @@
 // reverseTextLast("Hola como estás yo bien")
 // (5) ['aloH', 'omoc', 'sátse', 'oy', 'neib']
 
+
+
+// Ejercicio 8
+// Desafío; tienes un array de números, usando la función map debes retornar 
+// todos los números del array multiplicados por dos.
+
+// array=[2, 4, 5, 6];
+// (4) [2, 4, 5, 6]
+// function solution(array) {
+//  	return array.map(item => item * 2);
+// } 
+// undefined
+// solution(array)
+// (4) [4, 8, 10, 12]
