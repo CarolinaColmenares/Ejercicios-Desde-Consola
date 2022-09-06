@@ -157,3 +157,37 @@
 // undefined
 // solution(array)
 // (4) [4, 8, 10, 12]
+
+
+
+// Ejercicio 9:
+// Desafío: tienes un array de objetos que representan datos de 
+// personas con los siguientes atributos:
+
+// name
+// lastName
+// age
+// El reto aquí es retornar un array de strings con los nombres, 
+// la solución debería tener un input y output como los siguientes:
+
+// array=[
+//     {
+//         name: 'Nicolas',
+//         lastName: 'Molina',
+//         age: 28
+//     },
+//     {
+//         name: 'Valentina',
+//         lastName: 'Molina',
+//         age: 19
+//     },
+//     ];
+// (2) [{…}, {…}]
+
+// function solution(array){
+//  	return array.map(item => item.name);
+// }; 
+// undefined
+
+// solution(array)
+// (2) ['Nicolas', 'Valentina']
