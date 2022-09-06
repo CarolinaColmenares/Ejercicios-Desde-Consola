@@ -191,3 +191,42 @@
 
 // solution(array)
 // (2) ['Nicolas', 'Valentina']
+
+
+// Ejercicio 10:
+
+// Calcula y agrega una nueva propiedad en un Array:
+// Tienes un array de productos con los siguientes atributos:
+
+// name
+// price
+// stock
+// Debes agregar y calcular una nueva propiedad llamada "taxes", 
+// los impuestos deben ser del 19% con base al precio base.
+
+// Por ejemplo si aplicamos el 19% de impuestos para un producto con precio de $1000 
+// el resultado de los "taxes" será $190, debes tener en cuenta que como resultado 
+// se debe dejar un valor entero sin decimales.
+
+// array=[
+//     {
+//       name: "Product 1",
+//       price: 1000,
+//       stock: 10
+//     },
+//     {
+//       name: "Product 2",
+//       price: 2000,
+//       stock: 20
+//     },
+//    ];
+//   (2) [{…}, {…}]
+//   function solution(array){
+//        return array.map(item => ({
+//            ...item,
+//            taxes: Math.trunc(item.price * .19)
+//        }))
+//   }; 
+//   undefined
+//   solution(array)
+//   (2) [{…}, {…}]0: name: "Product 1"price: 1000stock: 10taxes: 190[[Prototype]]: Object1: name: "Product 2"price: 2000stock: 20taxes: 380[[Prototype]]: Objectlength: 2[[Prototype]]: Array(0)
