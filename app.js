@@ -250,3 +250,39 @@
 // solution(array)
 // (2) ['amor', 'piedra']
 
+
+// Ejercicio 12:
+// Filtra las compras que cumplan con las condiciones.
+
+// Array de ordenes de compra con los siguientes atributos:
+// customerName: string
+// total: number
+// delivered: boolean
+// Filtrar todas las órdenes de compra que cumplan con la condición de tener 
+// un total mayor o igual a 100 y además que el estado delivered sea "true".
+// En consola:
+
+// array=[
+//     {
+//       customerName: "Nicolas",
+//       total: 100,
+//       delivered: true,
+//     },
+//     {
+//       customerName: "Zulema",
+//       total: 120,
+//       delivered: false,
+//     },
+// ];
+// (2) [{…}, {…}]
+
+// function solution(array){
+//  	return array
+//  	.filter((item) => item?.total >= 100 && item?.delivered)
+// }; 
+// undefined
+
+// solution(array)
+// [{…}]
+
+// {customerName: 'Nicolas', total: 100, delivered: true}
