@@ -230,3 +230,23 @@
 //   undefined
 //   solution(array)
 //   (2) [{…}, {…}]0: name: "Product 1"price: 1000stock: 10taxes: 190[[Prototype]]: Object1: name: "Product 2"price: 2000stock: 20taxes: 380[[Prototype]]: Objectlength: 2[[Prototype]]: Array(0)
+
+
+// Ejercicio 11:
+// Retorna solo palabras de 4 letras y más.
+
+// retornar un array solo con las que cumplan 
+// con la condición de tener 4 o más letras.
+// En consola:
+
+// array=['amor', 'sol', 'piedra', 'día'];
+// (4) ['amor', 'sol', 'piedra', 'día']
+
+// function solution(array){
+//  	return array.filter(word => word.length >= 4);
+// }; 
+// undefined
+
+// solution(array)
+// (2) ['amor', 'piedra']
+
