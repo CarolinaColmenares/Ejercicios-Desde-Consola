@@ -286,3 +286,21 @@
 // [{…}]
 
 // {customerName: 'Nicolas', total: 100, delivered: true}
+
+
+
+// Ejercicio 13: *******************
+// // Responsables de los cuarteles
+// const paddockManagers = [
+//     { id: 1, taxNumber: '132254524', name: 'JUAN TAPIA BURGOS' },
+//     { id: 2, taxNumber: '143618668', name: 'EFRAIN SOTO VERA' },
+//     { id: 3, taxNumber: '78903228', name: 'CARLOS PEREZ GONZALEZ' },
+//     { id: 4, taxNumber: '176812737', name: 'ANDRES VIÑALES CIENFUEGOS' },
+//     { id: 5, taxNumber: '216352696', name: 'OSCAR PEREZ ZUÑIGA' },
+//     { id: 6, taxNumber: '78684747', name: 'JOAQUIN ANDRADE SANDOVAL' }
+// ];
+
+// // 0 Arreglo con los ids de los responsables de cada cuartel
+// function listPaddockManagerIds() {
+//     return paddockManagers.map((paddockManager) => paddockManager.id);
+// };
