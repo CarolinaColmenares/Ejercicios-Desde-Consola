@@ -304,3 +304,16 @@
 // function listPaddockManagerIds() {
 //     return paddockManagers.map((paddockManager) => paddockManager.id);
 // };
+
+//  Ejercicio 14 
+//  Programa una función que cuente el número de caracteres de una cadena
+// de texto, pe. miFunción("Hola Mundo") devolverá 10 */
+//  
+//     function contarcaracteres(cadena = "Hola Mundo"){
+//       if(!cadena){
+//             console.warn("No ingresate ninguna cadena")
+//       }else{
+//             console.info(`la cadena ${cadena} , tiene ${cadena.length} carcateres.`)
+//       }
+// }
+// contarcaracteres();
